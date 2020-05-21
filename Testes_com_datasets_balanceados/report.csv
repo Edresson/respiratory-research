@@ -1,0 +1,11 @@
+CNN2_dataset_2_slide10,dataset_2,slide10,10,1.0,0.5913461446762085
+CNN2_dataset_1_trim5,dataset_1,trim5,5,0.9947916865348816,0.7708333134651184
+CNN2_dataset_1_trim8,dataset_1,trim8,8,0.96875,0.65625
+CNN2_dataset_2_no_augment_10,dataset_2,no_augment_10,10,1.0,0.8846153616905212
+CNN2_dataset_2_no_augment_5,dataset_2,no_augment_5,5,0.96875,0.7692307829856873
+CNN2_dataset_2_trim8,dataset_2,trim8,8,0.96875,0.7307692170143127
+MLP1_dataset_1_trim8,dataset_1,trim8,8,1.0,0.5
+MLP1_dataset_2_trim8,dataset_2,trim8,8,1.0,0.942307710647583
+MLP1_dataset_2_slide10,dataset_2,slide10,10,1.0,0.7259615659713745
+MLP1_dataset_1_trim8,dataset_1,trim8,8,1.0,0.65625
+CNN2_dataset_1_slide10,dataset_1,slide10,10,1.0,0.796875

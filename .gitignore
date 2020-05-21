@@ -1,0 +1,7 @@
+datasets/
+Respiratory_Sound_Database/
+.ipynb_checkpoints/
+.vscode/
+features/
+models/
+*.zip
