@@ -1,0 +1,8 @@
+CNN2model1_dataset_1_no_augment_10_val_is_test_False,CNN2model1,dataset_1,no_augment_10,10,False,0.6140350699424744,0.375
+CNN2model1_dataset_1_slide10_val_is_test_True,CNN2model1,dataset_1,slide10,10,True,0.95703125,0.7421875
+CNN2model1_dataset_2_no_augment_10_val_is_test_False,dataset_2,no_augment_10,10,False,0.4912280738353729,0.5
+CNN2model1_dataset_2_slide10_val_is_test_True,CNN2model1,dataset_2,slide10,10,True,0.81640625,0.7788461446762085
+CNN2model1_dataset_1_no_augment_10_val_is_test_True,CNN2model1,dataset_1,no_augment_10,10,True,0.5,0.5
+CNN2model1_dataset_1_slide10_val_is_test_False,CNN2model1,dataset_1,slide10,10,False,0.9760869741439819,0.65625
+CNN2model1_dataset_2_no_augment_10_val_is_test_True,dataset_2,no_augment_10,10,True,0.5,0.5769230723381042
+CNN2model1_dataset_2_slide10_val_is_test_False,CNN2model1,dataset_2,slide10,10,False,0.9304347634315491,0.6538461446762085
